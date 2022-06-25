@@ -1,6 +1,7 @@
 Author: Aditi Das
 Email ID: aditi.das1601@gmail.com
 Version: 1.0
+PyPI website: https://pypi.org/project/CelestPlotter/
 
 Description:
 This is a simple package to convert RA and Declination values to degrees and plot them
